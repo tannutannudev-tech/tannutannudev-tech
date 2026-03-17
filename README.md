@@ -1,104 +1,92 @@
 <h1 align="center">Hello, I'm Tannu 👋</h1>
 
 <p align="center">
-Computer Science Student • Frontend Developer
+  <img src="https://readme-typing-svg.herokuapp.com?color=9F7AEA&center=true&vCenter=true&lines=Frontend+Developer;Computer+Science+Student;Building+Real+World+Projects;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
-<i>Building ideas into real-world projects</i>
-</p>
-
-<p align="center">
-🚀 Passionate about building clean UI & real-world applications
+  <i>Turning ideas into clean, scalable and real-world applications</i>
 </p>
 
 ---
 
 ## 🟣 About Me
 
-I am a Computer Science student passionate about building clean, scalable, and real-world web applications.
-
-- 💻 Focused on frontend development and creating user-friendly interfaces  
-- 📊 Built dashboard UI for EcoWell Tracker with data visualization  
-- 🏢 Contributed to HRMS system by developing the admin panel  
-- 🌱 Currently learning backend integration and improving DSA  
-- ⚡ Strong interest in turning ideas into practical solutions  
-
-I am always eager to learn new technologies and grow as a developer.
+- 💻 Frontend-focused Computer Science student  
+- 📊 Built dashboard UI for EcoWell Tracker  
+- 🏢 Worked on admin panel in HRMS system  
+- 🌱 Learning backend integration & improving DSA  
+- ⚡ Passionate about building real-world applications  
 
 ---
 
 ## 🟪 Tech Stack
 
-### ◇ Frontend
-![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+<p align="center">
 
-### ◇ Backend
-![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase)
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
+<img src="https://skillicons.dev/icons?i=html,css,js,firebase,mysql,git,figma,python,cpp" />
 
-### ◇ Tools
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
+</p>
 
 ---
 
 ## 🟪 Projects
 
-### ◇ EcoWell Tracker
+### ◇ EcoWell Tracker  
 A sustainability tracking web application  
 
 - 📊 Designed and developed the **dashboard UI**  
-- 📈 Implemented data visualization for better insights  
-- 🎯 Focused on clean UI and user-friendly experience  
-- 🛠️ Tech Used: HTML, CSS, JavaScript, Firebase  
+- 📈 Implemented data visualization  
+- 🎯 Focused on clean UI & UX  
+- 🛠️ Tech: HTML, CSS, JavaScript, Firebase  
 
 🔗 https://github.com/Akansha-in/EcoWellTracker  
 
-
-### ◇ HRMS System
-Employee management system  
-
-- 🏢 Contributed to building the **admin panel**  
-- ⚙️ Worked on managing employee data and UI components  
-- 🛠️ Tech Used: HTML, CSS, JavaScript, MySQL  
-
-🔗 https://github.com/Akansha-in/HRMS-MCD
-
 ---
 
-## 🟪 Contacts
+### ◇ HRMS System  
+Employee management system  
 
-<p align="center">
-<a href="https://www.linkedin.com/in/tannu-t-a3158b3a2/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:tannu.tannu.dev@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-</a>
-</p>
+- 🏢 Built **admin panel features**  
+- ⚙️ Managed employee data UI  
+- 🛠️ Tech: HTML, CSS, JavaScript, MySQL  
+
+🔗 https://github.com/Akansha-in/HRMS-MCD  
 
 ---
 
 ## 🟪 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tannutannudev-tech&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tannutannudev-tech&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tannutannudev-tech&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tannutannudev-tech&theme=tokyonight&hide_border=true" />
 </p>
 
+
+---
+
+## 🟪 Connect With Me
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tannutannudev-tech&layout=compact&theme=tokyonight" />
-</p>
+<a href="https://www.linkedin.com/in/tannu-t-a3158b3a2/">
+<img src="https://img.shields.io/badge/LinkedIn-9F7AEA?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:tannu.tannu.dev@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-9F7AEA?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 ---
 
 ## 🟪 My Mission
 
 To build meaningful, scalable, and user-friendly applications that turn ideas into real impact.
+
+---
+
+<p align="center">
+  ✨ Keep Building • Keep Learning • Keep Growing ✨
+</p>
