@@ -1,8 +1,7 @@
 <h1 align="center">Hello, I'm Tannu 👋</h1>
 
 <p align="center">
-Computer Science Student <br>
-Frontend Developer • UI/UX Enthusiast
+Computer Science Student
 </p>
 
 <p align="center">
@@ -10,16 +9,18 @@ Frontend Developer • UI/UX Enthusiast
 </p>
 
 ---
+## 🟣 About Me
 
-## 🟪 About Me
+I am a Computer Science student passionate about building clean, scalable, and real-world web applications.
 
-I am a Computer Science student passionate about software development and building real-world applications.
+- 💻 Focused on frontend development and creating user-friendly interfaces  
+- 📊 Built dashboard UI for EcoWell Tracker with data visualization  
+- 🏢 Contributed to HRMS system by developing the admin panel  
+- 🌱 Currently learning backend integration and improving DSA  
+- ⚡ Strong interest in turning ideas into practical solutions  
 
-I enjoy creating web-based projects and continuously improving my problem-solving skills. I have worked on projects like an HRMS system, where I contributed to developing the admin panel.
+I am always eager to learn new technologies and grow as a developer.
 
-Currently, I am focused on learning and strengthening my skills in web development and exploring backend integration.
-
-I am always eager to learn new technologies and work on practical projects.
 
 ---
 
@@ -27,7 +28,7 @@ I am always eager to learn new technologies and work on practical projects.
 
 ### ◇ Frontend
 ![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)
+![CSS](<img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=1572B6">)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 
 ### ◇ Backend
@@ -42,12 +43,21 @@ I am always eager to learn new technologies and work on practical projects.
 
 ## 🟪 Projects
 
-◇ EcoWell Tracker  
-A sustainability tracking web app  
+### ◇ EcoWell Tracker
+A sustainability tracking web application  
+
+- 📊 Designed and developed the **dashboard UI**  
+- 📈 Implemented data visualization for better insights  
+- 🎯 Focused on clean UI and user-friendly experience  
+
 🔗 https://github.com/Akansha-in/EcoWellTracker  
 
-◇ HRMS System  
-Worked on admin panel for employee management  
+
+### ◇ HRMS System
+Employee management system  
+
+- 🏢 Contributed to building the **admin panel**  
+- ⚙️ Worked on managing employee data and UI components    
 🔗 https://github.com/Akansha-in/HRMS-MCD
 
 ---
@@ -56,7 +66,7 @@ Worked on admin panel for employee management
 
 <p align="left">
 <a href="https://www.linkedin.com/in/tannu-t-a3158b3a2/">
-<img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin">
 </a>
 
 <a href="mailto:tannu.tannu.dev@gmail.com">
@@ -75,3 +85,11 @@ Worked on admin panel for employee management
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tannutannudev-tech&theme=tokyonight" />
 </p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tannutannudev-tech&layout=compact&theme=tokyonight" />
+</p>
+
+## 🟪 My Mission
+
+To build meaningful, scalable, and user-friendly applications that turn ideas into real impact.
